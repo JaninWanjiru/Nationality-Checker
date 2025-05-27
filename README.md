@@ -26,18 +26,9 @@ This is a simple web application that predicts the likely country of origin for 
 -  Converts country code to full name in English
 -  Handles errors and empty inputs gracefully
 
-
-##  Project Structure
-
-```bash
-├── index.html
-├── style.css
-└── script.js
-```
-
 ## How to Run
-Clone/download this repo
+- Clone/download this repo
 
-Open index.html in your browser
+- Open index.html in your browser
 
-Enter a name and see the prediction!
+- Enter a name and see the prediction.
