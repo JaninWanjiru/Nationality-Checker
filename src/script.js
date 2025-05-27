@@ -8,7 +8,7 @@ const getCountryNames = new Intl.DisplayNames(['en'], { type: 'region' });
 submitBtn.addEventListener("click", async (e) => {
   e.preventDefault();
   feedBackElement.innerHTML = ""
-  const queryName = dataInput.value.trim();
+  const queryName = dataInput.value;
   if (queryName === "") {
     feedBackElement.textContent = "Please provide a name";
     return;
