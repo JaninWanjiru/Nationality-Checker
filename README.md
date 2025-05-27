@@ -33,6 +33,7 @@ This is a simple web application that predicts the likely country of origin for 
 ├── index.html
 ├── style.css
 └── script.js
+```
 
 ## How to Run
 Clone/download this repo
